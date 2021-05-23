@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aastha Modi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aastha0202&label=Profile%20views&color=0e75b6&style=flat" alt="aastha0202" /> </p>
 
-- 🔭 I’m currently working on **Magic Notes App**
+
+- 🔭 I’m currently working on **Android Development.**
 
 - 🌱 I’m currently learning **React,Java**
 
@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **Javascript,C++**
 
-- 📫 How to reach me **@Aastha0202**
+- 📫 How to reach me **[** GitHub :-  @Aastha0202**](https://github.com/Aastha0202)
+                     Youtube :-  @Aasthamodi[enter link description here](https://www.youtube.com/channel/UC7cvtPOAcHXvr7Xa4xE0BpQ)**
 
 - ⚡ Fun fact **I am very foodie and music lover**
 
